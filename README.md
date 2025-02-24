@@ -5,4 +5,3 @@
 
 ### Languages:
 * Swift(frameworks: SwiftUI, Uikit, CoreData, CloudKit e SpriteKit),
-* C, C++
